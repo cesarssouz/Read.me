@@ -7,5 +7,6 @@
 ![image](https://github.com/user-attachments/assets/dacadec9-ae86-4349-b8ae-0c01ffec91fa)
 ## Tela Inicial 
 ![image](https://github.com/user-attachments/assets/7f2a0987-620e-40f7-8f99-21d5cf15cba2)
-
+## Tela de Registros e Educações financeiras 
+![image](https://github.com/user-attachments/assets/b475d215-f63f-4373-9f9a-3c5fe45cf0a6)
 
