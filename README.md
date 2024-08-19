@@ -14,3 +14,4 @@
 ![image](https://github.com/user-attachments/assets/39471a52-dbd5-4e3f-9732-744310592ff5)
 ## Tela de Configurações 
 ![image](https://github.com/user-attachments/assets/f883f82f-b6b6-4557-b33b-414f1d51fc8f)
+# Este é um prototipo inicial de um projeto para uma aplicação financeira, tende a melhorar muito e evoluir cada vez mais.
