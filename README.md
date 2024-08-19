@@ -6,5 +6,6 @@
 ## Tela de Verficação de Email e Senha
 ![image](https://github.com/user-attachments/assets/dacadec9-ae86-4349-b8ae-0c01ffec91fa)
 ## Tela Inicial 
-![image](https://github.com/user-attachments/assets/e49d44e6-7041-42e6-b4e6-d47ae5e42cc9)
+![image](https://github.com/user-attachments/assets/7f2a0987-620e-40f7-8f99-21d5cf15cba2)
+
 
